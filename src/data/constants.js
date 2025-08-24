@@ -10,7 +10,7 @@ export const Bio = {
     "Computer Science undergraduate at IIIT Lucknow with a passion for building impactful Android apps and contributing to open source. Experienced at Google as an Associate Software Developer Intern, with strong skills in Kotlin, Firebase, Golang, and system design. Enthusiastic about solving complex problems, mentoring peers, and creating scalable, user-focused solutions.",
   github: "https://github.com/TanishMoral11",
   resume:
-    "https://drive.google.com/file/d/1MPKG17Gg0t4KJ21ZVnv8LXHuxfRjrcYy/view?usp=sharing",
+    "",
   linkedin: "https://www.linkedin.com/in/tanishmoral/",
   twitter: "https://x.com/moral_tanish",
   insta: "https://www.instagram.com/tanish_moral_gurjar/"
